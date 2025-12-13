@@ -16,7 +16,7 @@ http://39.134.87.62/000000001000/5000000011000031102/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
-http://39.134.87.62/000000001000/5000000004000008885/index.m3u8
+rtp://225.0.0.29:6140
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
@@ -287,4 +287,5 @@ http://39.134.87.62/000000001000/5000000006000040015/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
 
 http://39.134.87.62/000000001000/5000000010000031107/index.m3u8
+
 
